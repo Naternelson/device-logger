@@ -1,0 +1,12 @@
+.logo.vite:hover {
+  filter: drop-shadow(0 0 2em #747bff);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafb);
+}
+
+@font-face {
+    font-family: "39"; 
+    src:url("./assets/fonts/39.ttf") format("truetype");
+}
